@@ -71,7 +71,7 @@ footer {
   .list-group-item{
   border: none;
 } 
-@media (min-width: 768px) {
+@media (min-width: 600px) {
   footer {
       background-color: black;
   }
