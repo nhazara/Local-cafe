@@ -71,15 +71,12 @@ footer {
   .list-group-item{
   border: none;
 } 
+@media (min-width: 768px) {
+  .social-icons {
+      background-color: red;
+  }
+}
+  
   
  
 
-/* .menu-body{
-  font-size: 20px;
-   #E4C59E
-    #e8e8e1
-} */
-/* .contact-form{
-  background-color: #2a1505;
-  opacity: 0.9;
-} */
