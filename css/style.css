@@ -71,8 +71,8 @@ footer {
   .list-group-item{
   border: none;
 } 
-@media (min-width: 600px) {
-  footer {
+@media (max-width: 600px) {
+  .custom-bg-color {
       background-color: black;
   }
 }
